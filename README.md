@@ -4,5 +4,7 @@ A real-time messaging web app built using ReactJS and NodeJS. The app allows use
 
 # Tech Stack
 Client: React JS
+
 Server: Node JS, Express JS
+
 Database: Mongo DB
